@@ -1,0 +1,47 @@
+[
+    {
+      "ID": 1,
+      "Size": "A",
+      "Full": false
+    },
+    {
+        "ID": 2,
+        "Size": "A",
+        "Full": false
+      },
+      {
+        "ID": 3,
+        "Size": "A",
+        "Full": false
+      },
+      {
+        "ID": 4,
+        "Size": "B",
+        "Full": false
+      },
+      {
+        "ID": 5,
+        "Size": "B",
+        "Full": false
+      },
+      {
+        "ID": 6,
+        "Size": "B",
+        "Full": false
+      },
+      {
+        "ID": 7,
+        "Size": "C",
+        "Full": false
+      },
+      {
+        "ID": 8,
+        "Size": "C",
+        "Full": false
+      },
+      {
+        "ID": 9,
+        "Size": "C",
+        "Full": false
+      }
+  ]

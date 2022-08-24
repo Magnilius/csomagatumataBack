@@ -1,0 +1,12 @@
+GET http://localhost:8080/GetPackage?code=123456789&pass=789123
+
+###
+
+GET http://localhost:8080/validateUser?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.RKSsTvqFO4cH2u4__leZ2kQWWdVUcfST4hHEEpH_2dM
+
+###
+GET http://localhost:8080/storeCheck
+
+###
+
+GET http://localhost:8080/AddPackage
